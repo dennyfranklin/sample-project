@@ -1,0 +1,18 @@
+<main>
+   <div class="seven">
+    <div class="seven1">
+        <h1>Seventh chords</h1>
+        <h3>A seventh chord is a chord consisting of a triad plus a note forming an interval of a seventh above the chord's root. 
+            When not otherwise specified,
+             a "seventh chord" usually means a dominant seventh chord: a major triad together with a minor seventh.</h3>
+        <h2>For example </h2>
+        <div><img src="../assets/image/ezample.png" alt="error"></div>
+    </div>
+    <div class="seven2">
+        <video controls src="../assets/video/Y2Mate.is - How To Use Seventh Chords  Keyboard Tutorial  Tamil  Allegro Keyz-82F-_MD187g-720p-1654296644439.mp4"></video>
+       
+    </div>
+   </div>
+   <!-- These are scales practicies and ear training for user -->
+  <div> <a href="exercise3.html"><button>Exercise</button></a></div>
+</main>  
